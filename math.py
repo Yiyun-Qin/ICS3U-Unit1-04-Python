@@ -6,7 +6,7 @@
 
 
 def main():
-    print("If a triangle has the dimentions:")
+    print("If a triangle has the dimensions:")
     print("5cm x 3cm")
     print("")
     print("Area is {} cm².".format(5 * 3))
